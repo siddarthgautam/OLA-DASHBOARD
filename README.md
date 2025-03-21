@@ -13,15 +13,17 @@ This Power BI project provides an interactive dashboard to analyze Ola's sales p
 - **Booking Status Breakdown** – Analyzes the percentage of rides including successful and non-successful rides.
 Snap of Booking Status Breakdown
 
-<img width="330" alt="Image" src="https://github.com/user-attachments/assets/bfef9d20-3633-41ae-b204-0508d72ce2d7" />
+<img width="330" alt="Image" src="https://github.com/user-attachments/assets/bf400fb1-69f1-48fe-80a2-8cd6fc63e980" />
 
 - **Ride Volume Over Time** – Demonstrates total rides booked over a period of 1 month.
 - **Revenue by Payment Methods** – Analyzes different payment methods such as cash, UPI, and credit card used by customers.
+<img width="308" alt="Image" src="https://github.com/user-attachments/assets/6b0a8783-dc08-4f48-a94d-4cce2247a98f" />
+
 - **Top 5 Customers** – Identifies top 5 customers based on max ride amount over a period of 1 month.
 - **Rides Cancelled by Customers and Drivers** – Identifies the percentage and reasons for ride cancellations by customers and drivers. 
 
 
-![Image](https://github.com/user-attachments/assets/922d22d5-b350-41ca-83fe-d6266f08d74b)
+<img width="319" alt="Image" src="https://github.com/user-attachments/assets/c9ad1400-5e2e-4f0d-8efa-14673743d2b2" />
 
 ## 📂 Data Sources
 - **Ride Transactions**: Contains details of completed and canceled rides.
